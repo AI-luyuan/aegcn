@@ -1,0 +1,1 @@
+Add the autoencoder layer on the hidden representations before the classication layer of GAN, and conduct experiments on citation networks.
